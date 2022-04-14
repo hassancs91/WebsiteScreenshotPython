@@ -9,5 +9,8 @@ Selenium has several functions, and one of the most significant and useful is th
 Syntax : 
 driver.save_screenshot("screenshot.png")
 
+#And for bypassing cloudflare, I used this project:
+https://github.com/diprajpatra/selenium-stealth
+
 Full Video Tutorial and Source Code:
 https://learnwithhasan.com/website-screenshot-python/
